@@ -57,7 +57,6 @@
 
 ![alt text](pictures/infrastructure-as-code-IaC-terraform.excalidraw.png)
 
- 
 ## Sơ đồ Data Pipeline
 
 <!-- Data Source -->
@@ -70,9 +69,7 @@
 
 <!-- Destination -->
 
-
 ![alt text](pictures/Data-Pipeline.excalidraw.png)
-
 
 ## Sơ đồ thu thập dữ liệu
 
@@ -80,53 +77,36 @@
 
 ## Sơ đồ tiền xử lý dữ liệu ETL
 
-Trích xuất nội dung thẻ HTML
+- [ ] Trích xuất nội dung thẻ HTML
 
-Trích xuất nội dung tiêu đề số liệu bên trên
+- [ ] Trích xuất nội dung tiêu đề số liệu bên trên
 
-Trích xuất nội dung người ký bên dưới
+- [ ] Trích xuất nội dung người ký bên dưới
 
-Chuyển đổi ngày tháng năm
+- [ ] Chuyển đổi ngày tháng năm
 
-Trích xuất nội dung quan trọng ở giữa
+- [ ] Trích xuất nội dung quan trọng ở giữa
 
-Sử dụng docling để chuyển thành JSON, markdown
+- [ ] Sử dụng docling để chuyển thành JSON, markdown
 
-Sử dụng langchain : Chunking và embeddings dữ liệu
+- [ ] Sử dụng langchain : Chunking và embeddings dữ liệu
 
-Có thể dùng chroma hoặc database postgres 
+- [ ] Có thể dùng chroma hoặc database postgres
 
 ## Sơ đồ RAG
-
-
 
 ![alt text](pictures/rag-1.excalidraw.png)
 
 ![alt text](pictures/rag-2.excalidraw.png)
 
-  
-
-
-
-
-
 ## Sơ đồ Tổng quan chung về backend AI
 
-
-Backend và AI cùng chung 1 dự án, sau này có thể tách thành 1 backend hoặc microservices NestJS  (dự kiến)
-
+Backend và AI cùng chung 1 dự án, sau này có thể tách thành 1 backend hoặc microservices NestJS (dự kiến)
 
 ![alt text](pictures/be-ai.excalidraw.png)
 
-
-
-
-
-
-
-
 ## Tích hợp LangChain
 
-![alt text](pictures/LocalLLM.png) 
+![alt text](pictures/LocalLLM.png)
 
 ![alt text](pictures/LocalLLMWithLangSmith.png)
